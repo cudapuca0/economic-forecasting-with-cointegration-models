@@ -200,7 +200,7 @@ Most importantly, I learned that forecasting is not simply about generating pred
 
 ---
 
-## Skills Demonstrated
+## Skills 🥵🔥
 
 ### Econometrics
 
@@ -237,17 +237,6 @@ Most importantly, I learned that forecasting is not simply about generating pred
 - Git
 - GitHub
 
----
-
-## Repository Structure
-
-```text
-macroeconomic-forecasting-var-vecm-tvar/
-│
-├── README.md
-├── Project_Report.pdf
-├── forecasting_analysis.ipynb
-```
 
 ---
 
