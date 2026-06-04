@@ -10,7 +10,8 @@
 
 [![Website](https://img.shields.io/badge/Website-cudapuca.base44.app-black?style=for-the-badge)](https://cudapuca.base44.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Puente-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danielpuente/)
-[![Instagram](https://img.shields.io/badge/Instagram-dandrunner-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dandrunner)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielpuent02@gmail.com)
+[![Instagram](https://img.shields.io/badge/Running-dandrunner-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dandrunner)
 
 
 
