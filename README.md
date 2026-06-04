@@ -22,11 +22,7 @@
 
 I've always been fascinated by how economists try to understand the future.
 
-Inflation, interest rates, unemployment, and economic growth are deeply connected, yet forecasting them is incredibly difficult. Rather than studying these indicators in isolation, I wanted to explore how their relationships evolve over time and whether those relationships could improve forecasting accuracy.
-
-This project introduced me to some of the most important tools in modern time-series econometrics, including cointegration analysis, vector autoregressions, and error-correction models.
-
-More importantly, it showed me that good forecasting is not about predicting the future perfectly. It's about understanding relationships, uncertainty, and making better decisions with imperfect information.
+Inflation, interest rates, unemployment, and economic growth are deeply connected, yet forecasting them is incredibly difficult. This project introduced me to some of the most important tools in modern time-series econometrics, including cointegration analysis, vector autoregressions, and error-correction models.
 
 ---
 
@@ -250,16 +246,6 @@ macroeconomic-forecasting-var-vecm-tvar/
 ├── README.md
 ├── Project_Report.pdf
 ├── forecasting_analysis.ipynb
-│
-├── data/
-│   └── Macro_data_can.csv
-│
-├── figures/
-│   ├── johansen_test.png
-│   ├── forecasting_results.png
-│   └── model_comparison.png
-│
-└── src/
 ```
 
 ---
@@ -267,18 +253,3 @@ macroeconomic-forecasting-var-vecm-tvar/
 ## About Me
 
 I'm **Daniel Puente**, a Statistics and Economics graduate from the University of Toronto and an incoming Master of Management in Analytics student at McGill University.
-
-My interests include:
-
-- Econometrics
-- Economic Research
-- Data Science
-- Machine Learning
-- Financial Analytics
-- Public Policy Analytics
-
-Outside of analytics, you'll usually find me training for a marathon, learning a new language, traveling, or exploring how data can help us better understand the world around us.
-
----
-
-> *"Forecasting isn't about predicting the future perfectly. It's about making better decisions under uncertainty."*
