@@ -8,8 +8,6 @@
 ![Time Series](https://img.shields.io/badge/Time%20Series-E67E22?style=for-the-badge)
 ![Macroeconomics](https://img.shields.io/badge/Macroeconomics-8E44AD?style=for-the-badge)
 
-> Built as part of advanced coursework in Time Series Econometrics at the University of Toronto.
-
 ## Quick Links
 
 💼 [LinkedIn](https://www.linkedin.com/in/danielpuente/)
