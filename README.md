@@ -8,13 +8,11 @@
 ![Time Series](https://img.shields.io/badge/Time%20Series-E67E22?style=for-the-badge)
 ![Macroeconomics](https://img.shields.io/badge/Macroeconomics-8E44AD?style=for-the-badge)
 
-## Quick Links
+[![Website](https://img.shields.io/badge/Website-cudapuca.base44.app-black?style=for-the-badge)](https://cudapuca.base44.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Puente-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danielpuente/)
+[![Instagram](https://img.shields.io/badge/Instagram-dandrunner-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dandrunner)
 
-💼 [LinkedIn](https://www.linkedin.com/in/danielpuente/)
 
-🌐 [Personal Website](https://cudapuca.base44.app)
-
-🏃 [Running Account](https://www.instagram.com/dandrunner)
 
 ---
 
