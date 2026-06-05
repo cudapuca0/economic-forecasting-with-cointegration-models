@@ -11,7 +11,7 @@
 ## Quick Links
 
 [![Website](https://img.shields.io/badge/Website-cudapuca.base44.app-black?style=for-the-badge)](https://cudapuca.base44.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Puente-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/danielpuente/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Puente-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danielpuent/)
 [![Gmail](https://img.shields.io/badge/Gmail-danielpuent02%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:danielpuent02@gmail.com)
 [![Instagram](https://img.shields.io/badge/Running-dandrunner-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/dandrunner)
 
